@@ -49,21 +49,23 @@
 
   #features {
     position: relative;
-    margin-top: 30vh; /* Utiliza margin-top para separar del contenido anterior */
+    margin-top: 30vh;
     padding: 20px;
     text-align: center;
     border: 1px dashed #9ad79b;
   }
   
+  .empty-section {
+    height: 20vh;
+  }
   
   footer {
-    position: absolute;
-    bottom: 20px;
+    position: relative;
+    bottom: 0;
     width: 100%;
     text-align: center;
     border: 1px dashed #9ad79b;
     padding: 20px;
   }
-  
   
   
